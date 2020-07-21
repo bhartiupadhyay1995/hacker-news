@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}    
+.Story_data{
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.Story_title{
+    font-size: 14px;
+}
+
+.Story_meta{
+    font-size: 12px;
+    padding-top: 5px;
+    color: #716c6c;
+}
+.Story_separator{
+    padding: 0 5px;
+}
+
+a {
+    color: #888383;
+}
+
+.SearchInput{
+    margin: 10px;
+    width: 50%;
+    padding: 8px;
+}
+
+.cntr{
+    background-color: #ff742b;
+}
+
+.heading{
+    padding: 0 0 0 10px;
+    font-weight: bold;
+}
